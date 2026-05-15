@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="./style/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Volume</title>
+</head>
+<body>
+    <h1>Audio and Music Control with Slider</h1>
+    <audio id="music" controls> 
+        <source src="./music/last-dance.mp3" type="audio/mpeg">
+        Your browser does not support the audio element
+    </audio>
+    <div>
+        <label for="volumeSlider">Volume</label>
+        <input type="range" id="volumeSlider" min="0" max="100" value="30" >
+    </div>
+    <script src="./app/script.js"></script>
+</body>
+</html>

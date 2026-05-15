@@ -1,0 +1,20 @@
+body{
+    font-family: system-ui, sans-serif;
+    text-align: center;
+    padding: 50px;
+    background-color: #f9e8e8;
+
+}
+h1{
+    color: #333;
+    margin-bottom: 20px;
+
+}
+audio{
+    margin: 20px 0;
+    width: 80%;
+}
+input[type="range"]{
+    width: 400px;
+    margin-top: 10px;
+}
