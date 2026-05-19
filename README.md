@@ -1,3 +1,4 @@
+![Music Volume Controller Preview](Music-Volum-15-5-26.png)
 # Music Volume Controller
 A functional and lightweight audio control interface built with HTML, CSS, and Vanilla JavaScript.
 
